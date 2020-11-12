@@ -1,8 +1,8 @@
 # 🕸3 Domain Welcomes You to Own the Internet!!
 
-Get subdomains on [Handshake](https://handshake.org/) Top Level Domains.
+[OWNTheWEB3/](http://official.owntheweb3) wtih [Handshake](https://handshake.org/) Top Level Domains.
 
-We have [1TimeFeeDomains](http://home.1timefeedomains/)
+We have [1TimeFeeDomains](http://home.1timefeedomains/) and subdomains available!
 
 See the [Web Security Specialist](http://admin.websecurityspecialist/)
 
