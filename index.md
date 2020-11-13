@@ -1,6 +1,6 @@
 # 🕸3 Domain Welcomes You to Own the Internet!!
 
-[OWNTheWEB3/](http://official.owntheweb3) wtih [Handshake](https://handshake.org/) Top Level Domains.
+[OWNTheWEB3/](http://official.owntheweb3) wtih [Handshake](https://handshake.org/) Top Level Domains from [NameBase](https://namebase.io/)
 
 We have [1TimeFeeDomains](http://home.1timefeedomains/) and subdomains available!
 
