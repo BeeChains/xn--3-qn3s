@@ -4,7 +4,9 @@
 
 # At [Inner I Net Company](http://dlink.innerinetcompany.hns.to/), we cultivate Divine Gifts to elevate the economics. Our Handshake Top Level Domains are nourished and manifested from the ROOT OF PERCEPTION, to spiritualize potentials for an abundance of fruits. [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet with our [HNS-DOMAINS](http://home.hns-domains.hns.to/).
 
-[OWNTheWEB3/](http://official.owntheweb3) wtih [Handshake](https://handshake.org/) Top Level Domains from [NameBase](https://namebase.io/)
+- [What is WEB 3?](http://blockchainhub.net/web3-decentralized-web/)
+
+- Learn about [Handshake](https://handshake.org/) Top Level Domains from [NameBase](https://namebase.io/)
 
 - [Web3.js](https://web3js.readthedocs.io/en/v1.3.0/) and [Web3.js on github](https://github.com/ethereum/web3.js/)
 
