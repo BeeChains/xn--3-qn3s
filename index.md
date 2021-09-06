@@ -14,3 +14,14 @@
 
 # Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company)
 <iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
+
+<div class="scene">
+  <div class="cube">
+    <div class="side back"></div>
+    <div class="side left"></div>
+    <div class="side right"></div>
+    <div class="side top"></div>
+    <div class="side bottom"></div>
+    <div class="side front"></div>
+  </div>
+</div>
